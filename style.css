@@ -1,0 +1,21 @@
+div.div1 {background-color: rgb(186, 219, 219);opacity: 1;text-align: center;}
+
+div.div2 {text-align: center;width: auto; height: auto;}
+
+img.valencia:hover{opacity: 0.2;}
+
+
+h1.h1{color: black; font-size: larger; text-align: center;}
+
+
+hr.hr1 {width: 50%;}
+hr.hr2 {height: 20px; color: blue; background-color: blue;}
+
+a[title] {color: black;}
+
+a.hover:hover{font-weight:bold; background-color: rgb(186, 219, 219);}
+
+p.p1 {text-align: center;}
+p.p2 {color: blue; font-weight: bold; text-align: justify; width: 50vw;
+background-image: url("img/valencia_antigua.jpg"); border: black 0.7px solid;}
+
